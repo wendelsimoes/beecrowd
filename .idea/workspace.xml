@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07aa4d8f-b591-45eb-8f22-d01359623085" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/simoes/wendel/beginner/Average1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/simoes/wendel/beginner/Average2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/simoes/wendel/beginner/SimpleProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/simoes/wendel/beginner/SimpleSum.java" afterDir="false" />
+    <list default="true" id="07aa4d8f-b591-45eb-8f22-d01359623085" name="Changes" comment="Day 2">
+      <change afterPath="$PROJECT_DIR$/src/br/simoes/wendel/beginner/Difference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/simoes/wendel/beginner/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/simoes/wendel/beginner/SalaryWithBonus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/simoes/wendel/beginner/SimpleCalculate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666752326768</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 2">
+      <created>1666779233823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666779233823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -62,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 2" />
   </component>
 </project>
