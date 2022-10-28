@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07aa4d8f-b591-45eb-8f22-d01359623085" name="Changes" comment="Day 3">
-      <change afterPath="$PROJECT_DIR$/src/br/simoes/wendel/beginner/Consumption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/simoes/wendel/beginner/Distance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/simoes/wendel/beginner/DistanceBetweenTwoPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/simoes/wendel/beginner/FuelSpent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/simoes/wendel/beginner/TheGreatest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/simoes/wendel/beginner/Banknotes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
